@@ -1,0 +1,17 @@
+{
+	"manifest_version": 2,
+	"name": "Norm's Law",
+	"version": "1.0",
+	"author": "David McNett (MacNugget)",
+	"homepage_url": "http://github.com/nugget/norms_law",
+	"description": "Replaces the text \"Natural Law\" with \"NORM'S LAW\" in any rev2217 post on the Motley Fool message boards.",
+	"content_scripts": 
+	[
+		{
+			"matches": ["*://boards.fool.com/*"],
+			"js": ["content_script.js"],
+			"run_at": "document_end"
+		}
+	]
+}
+
