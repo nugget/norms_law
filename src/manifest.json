@@ -3,7 +3,7 @@
 	"name": "Norm's Law",
 	"version": "1.0",
 	"author": "David McNett (MacNugget)",
-	"homepage_url": "http://github.com/nugget/norms_law",
+	"homepage_url": "http://nugget.github.io/norms_law/",
 	"description": "Replaces the text \"Natural Law\" with \"NORM'S LAW\" in any rev2217 post on the Motley Fool message boards.",
 	"content_scripts": 
 	[
