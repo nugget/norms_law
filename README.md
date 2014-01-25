@@ -1,5 +1,5 @@
-NORM'S LAW Chrome Browser Extension
-===================================
+Norm's Law
+==========
 
 This is a Chrome browser extension that will fix posts on the Motley Fool message board whenever
 Norm (rev2217) erroneously refers to "Natural Law" when, in fact, he means "NORM'S LAW."
